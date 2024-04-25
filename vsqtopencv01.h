@@ -16,6 +16,7 @@
 #include <opencv2/imgproc/imgproc.hpp>
 #include <vector>
 #include <cstdio>
+#include <qevent.h>
 
 class vsqtopencv01 : public QWidget
 {
